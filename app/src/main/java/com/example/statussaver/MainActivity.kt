@@ -120,7 +120,6 @@ class MainActivity : ComponentActivity() {
             430,
             null
         )
-//        this.startActivityForResult(intent, 430)
     }
 
 
